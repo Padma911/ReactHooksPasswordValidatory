@@ -57,5 +57,5 @@ export const Input = styled.input`
 `
 
 export const ErrMsg = styled(Para)`
-  color: #ef4444;
+  color: pink;
 `
